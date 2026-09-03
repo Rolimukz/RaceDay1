@@ -1,7 +1,7 @@
 # RaceDay1
 RaceDay Event Management System
 
-# 🏃 RaceDay - South African Event Management System
+#  RaceDay - South African Event Management System
 
 Welcome to **RaceDay**! This is a full-stack web application built to help manage road running, walking, and cycling events across South Africa. Whether you're organising the Comrades Marathon or a small community park run, RaceDay makes it easier.
 
@@ -25,7 +25,7 @@ Think of RaceDay as your all-in-one event management tool. It helps:
 - Record finishing times and positions
 - Manage route information
 
-### 🏃 Participants
+### Participants
 - Browse and search for upcoming events
 - Register for events and choose your category
 - View your registration history

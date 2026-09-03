@@ -18,7 +18,7 @@ Think of RaceDay as your all-in-one event management tool. It helps:
 
 ## Who's Using RaceDay?
 
-### 🎯 Event Organisers
+###  Event Organisers
 - Create and manage events (like marathons, cycle tours, and walks)
 - Add different race categories (e.g., 5km, 10km, Half Marathon, Full Marathon)
 - View who has signed up for your events

@@ -60,6 +60,22 @@ The system uses **7 core tables** to keep everything organised:
 | **Enrolments** | Who is registered for which event |
 | **Results** | Finishing times and positions for participants |
 
+## Setup Instructions
+
+1. Clone this repository
+2. Open SQL Server Management Studio (SSMS)
+3. Run the script at docs/RaceDay_Database.sql
+4. This will create the RaceDayDB database with sample data
+
 ---
 
-## Project Structure
+## Video Walkthrough
+
+Watch the complete walkthrough of Part 1:
+
+https://youtu.be/YOUR_VIDEO_LINK
+
+Replace YOUR_VIDEO_LINK with your actual YouTube video link.
+
+---
+

@@ -73,7 +73,7 @@ The system uses **7 core tables** to keep everything organised:
 
 Watch the complete walkthrough of Part 1:
 
-https://youtu.be/xEn8cYrT9WE
+https://youtu.be/tyTpQP1hrmY
 
 ---
 

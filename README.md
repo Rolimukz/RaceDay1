@@ -75,7 +75,5 @@ Watch the complete walkthrough of Part 1:
 
 https://youtu.be/xEn8cYrT9WE
 
-Replace YOUR_VIDEO_LINK with your actual YouTube video link.
-
 ---
 
